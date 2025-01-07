@@ -3,8 +3,12 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/1dMVJNG/yead-portfolio.png"  />
+  <img height="400" src="https://i.ibb.co.com/1dMVJNG/yead-portfolio.png"  />
 </div>
+
+###
+
+<h3 align="left">Full-Stack Web Developer</h3>
 
 ###
 
