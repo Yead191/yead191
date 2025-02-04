@@ -96,6 +96,17 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="45" height="33" alt="telegram logo"  />
   </a>
 </div>
+###
+
+<h2 align="left">📊 Stats:</h2>
+
+###
+
+<div align="left">
+ <a href="https://git.io/streak-stats">
+  <img src="https://nirzak-streak-stats.vercel.app?user=https%3A%2F%2Fgithub.com%2FYead191" alt="GitHub Streak">
+</a>
+</div>
 
 ###
 
