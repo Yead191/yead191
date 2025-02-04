@@ -83,7 +83,9 @@
 ###
 
 <div align="left">
-  <img src="https://www.linkedin.com/in/md-asadur-rahaman-yead/" width="45" height="33" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/md-asadur-rahaman-yead/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="33" alt="linkedin logo"  />
+  </a>
   <a href="https://www.facebook.com/asadurrahman.yead.3/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="33" alt="facebook logo"  />
   </a>
