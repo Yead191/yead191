@@ -104,7 +104,7 @@
 
 <div align="left">
  <a href="https://git.io/streak-stats">
-  <img src="https://nirzak-streak-stats.vercel.app?user=https%3A%2F%2Fgithub.com%2FYead191" alt="GitHub Streak">
+  <img src="https://nirzak-streak-stats.vercel.app?user=yead191" alt="GitHub Streak">
 </a>
 </div>
 
