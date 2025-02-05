@@ -113,15 +113,14 @@
 
 ###
 
-<div align="left">
- <a href="https://git.io/streak-stats">
-  <img src="https://nirzak-streak-stats.vercel.app?user=yead191&mode=weekly" height="200" alt="GitHub Streak">
-</a>
-
-<br><br> 
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yead191&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+<div align="left" style="display: flex; align-items: center; gap: 20px;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=yead191&mode=weekly" height="200" alt="GitHub Streak">
+  </a>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yead191&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" />
 </div>
+
 
 ###
 
