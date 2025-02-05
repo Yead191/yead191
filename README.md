@@ -19,6 +19,18 @@
 <p align="left">I’m Asadur Rahaman Yead, a Full Stack Web Developer from Bangladesh with a deep passion for the MERN Stack (MongoDB, Express.js, React.js, Node.js). My journey in tech began with curiosity and grew into a relentless drive to create impactful digital solutions.<br><br>🎓 I hold a BSc in Computer Science and Engineering from Daffodil International University, where I cultivated my technical expertise and built a solid foundation for innovation.</p>
 
 ###
+<h3 align="left">📌 Current Activities</h3>
+
+###
+
+<ul align="left">
+  <li>🔍 Exploring <strong>Next.js</strong> to enhance my React skills</li>
+  <li>🚀 Improving backend performance optimization techniques</li>
+  <li>📚 Diving into advanced <strong>REST API</strong> concepts</li>
+  <li>💡 Experimenting with <strong>UI/UX design</strong> to create more user-friendly interfaces</li>
+</ul>
+
+###
 
 <h2 align="left">🛤️ My Philosophy</h2>
 
